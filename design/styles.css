@@ -1,0 +1,102 @@
+
+body{
+  text-align: center;
+  color: #FFFFFF;
+  line-height: 2;
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+h1{
+  font-family: 'Big Shoulders Display', cursive;
+  margin-left: 50px;
+}
+
+.plate{
+
+  width: 1000px;
+  height: 500px;
+  margin: 100px auto;
+}
+
+.car-icon{
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.sedan-container{
+  background-color: #E38826;
+  border-bottom-left-radius: 5%;
+  border-top-left-radius: 5%;
+  float: left;
+  text-align: left;
+  width: 33.333333%;
+  height:500px;
+}
+
+.suv-container{
+  background-color: #006970;
+  float: left;
+  text-align: left;
+  width: 33.33333339%;
+  height:500px;
+}
+
+.luxury-container{
+  background-color: #004241;
+  border-bottom-right-radius: 5%;
+  border-top-right-radius: 5%;
+  float: right;
+  text-align: left;
+  width: 33.3333333%;
+  height:500px;
+}
+
+
+/*
+.sedan-container{
+  position: absolute;
+  border-radius: 5%;
+  width: 19%;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 200px;
+  text-align: left;
+  background-color: #E38826;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+*/
+
+.discription{
+  margin:50px;
+  margin-top: 0;
+}
+
+/*
+.suv-container{
+  position: absolute;
+  border-radius: 1%;
+  width: 19%;
+  height: 500px;
+  margin-top: 50px;
+  left: 585px;
+  text-align: left;
+  background-color: #006970;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.luxury-container{
+  position: absolute;
+  border-radius: 5%;
+  width: 19%;
+  height: 500px;
+  margin-top: 50px;
+  left: 965px;
+  text-align: left;
+  background-color: #004241;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+*/
